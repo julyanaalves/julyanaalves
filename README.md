@@ -1,11 +1,11 @@
 <!-- Header: nome/idiomas à esquerda e GIF à direita (sem espaços extras) -->
-<img align="right" src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="280" />
+<img align="right" src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="300" style="border-radius:12px; border:2px solid #8b5cf6; box-shadow:0 8px 20px rgba(139,92,246,0.25); margin-left:16px;" />
 
-<h1>Julyana Alves</h1>
+<h1 style="color:#7c3aed; margin-bottom: 6px;">Julyana Alves</h1>
 <p>
-  <strong>Idioma / Language:</strong>
-  <a href="#portugues">Português</a> ·
-  <a href="#english">English</a>
+  <strong style="color:#7c3aed;">Idioma / Language:</strong>
+  <a href="#portugues" style="color:#6d28d9; text-decoration:none; border-bottom:1px dashed #c4b5fd;">Português</a> ·
+  <a href="#english" style="color:#6d28d9; text-decoration:none; border-bottom:1px dashed #c4b5fd;">English</a>
 </p>
 
 <!-- Biografia curta PT/EN abaixo do cabeçalho -->
@@ -14,7 +14,7 @@
 
 <br clear="right" />
 
----
+<div style="height:4px; background:linear-gradient(90deg,#a78bfa,#8b5cf6,#6d28d9,#5b21b6); border-radius:999px; margin: 12px 0 20px;"></div>
 
 <a id="portugues"></a>
 <details open>
@@ -30,12 +30,17 @@
 - 🎯 Objetivos: Querendo iniciar um projeto de extensão para ajudar a distribuição e doação de alimentos no Recife.
 - 💬 Curiosidades: Adoro gatinhos e gosto de praticar esportes!
 
+## Habilidades
+
+- Linguagens: Python, C/C++, JavaScript/TypeScript, SQL, Java, HTML/CSS/PHP
+
 ## Tecnologias & Ferramentas
 
-- Linguagens: HTML, CSS, JavaScript, TypeScript, Python, C++
-- Frameworks/Bibliotecas: React, Node.js
-- Banco de dados: SQLite, PostgreSQL, MongoDB
-- Ferramentas: Git & GitHub, VS Code, Figma, Postman
+- Git/GitHub
+- Banco de Dados (SQL)
+- Metodologias Ágeis
+- Redes de Computadores
+- Sistemas Operacionais (Windows)
 
 ## Projetos em destaque
 
@@ -56,16 +61,16 @@
   <summary>Ver minhas estatísticas</summary>
   
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=julyanaalves&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanaalves&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanaalves&layout=compact&theme=midnight-purple" alt="Top Langs" />
   
-  <img height="160" src="https://streak-stats.demolab.com/?user=julyanaalves&theme=radical" alt="GitHub Streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=julyanaalves&theme=midnight-purple" alt="GitHub Streak" />
 </details>
 
 ## Badges
 
-![Status](https://img.shields.io/badge/status-Em%20evolu%C3%A7%C3%A3o-ff69b4)
-![Aprendendo](https://img.shields.io/badge/aprendendo-React-blue)
-![Amante%20de%20gatos](https://img.shields.io/badge/amo-gatos-yellow)
+![Status](https://img.shields.io/badge/status-Em%20evolu%C3%A7%C3%A3o-8b5cf6)
+![Aprendendo React](https://img.shields.io/badge/aprendendo-React-8b5cf6?logo=react&logoColor=white)
+![Amante%20de%20gatos](https://img.shields.io/badge/amo-gatos-a78bfa?logo=github&logoColor=white)
 
 ---
 
@@ -89,12 +94,17 @@ Se gostou de algo, sinta-se à vontade para dar uma estrela, abrir uma issue com
 - 🎯 Goals: Planning to start an outreach project to support food distribution and donations in Recife.
 - 💬 Fun facts: I love kittens and enjoy practicing sports!
 
-## Tech & Tools
+## Skills
 
-- Languages: HTML, CSS, JavaScript, TypeScript, Python, C++
-- Frameworks/Libraries: React, Node.js
-- Databases: SQLite, PostgreSQL, MongoDB
-- Tools: Git & GitHub, VS Code, Figma, Postman
+- Languages: Python, C/C++, JavaScript/TypeScript, SQL, Java, HTML/CSS/PHP
+
+## Technologies & Tools
+
+- Git/GitHub
+- Databases (SQL)
+- Agile Methodologies
+- Computer Networks
+- Operating Systems (Windows)
 
 ## Featured projects
 
@@ -115,7 +125,7 @@ Se gostou de algo, sinta-se à vontade para dar uma estrela, abrir uma issue com
   <summary>See my stats</summary>
   
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=julyanaalves&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanaalves&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanaalves&layout=compact&theme=midnight-purple" alt="Top Langs" />
   
   <!-- Streak (optional) -->
   <!-- <img height="160" src="https://streak-stats.demolab.com/?user=julyanaalves&theme=radical" alt="GitHub Streak" /> -->
@@ -123,9 +133,9 @@ Se gostou de algo, sinta-se à vontade para dar uma estrela, abrir uma issue com
 
 ## Badges
 
-![Status](https://img.shields.io/badge/status-Work%20in%20progress-ff69b4)
-![Learning](https://img.shields.io/badge/learning-React-blue)
-![Cat%20lover](https://img.shields.io/badge/cat-lover-yellow)
+![Status](https://img.shields.io/badge/status-Work%20in%20progress-8b5cf6)
+![Learning%20React](https://img.shields.io/badge/learning-React-8b5cf6?logo=react&logoColor=white)
+![Cat%20lover](https://img.shields.io/badge/cat-lover-a78bfa)
 
 ---
 
