@@ -1,27 +1,18 @@
-<!-- Header: nome/idiomas à esquerda e gif à direita -->
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <h1 style="margin-bottom: 8px;">Julyana Alves</h1>
-      <p>
-        <strong>Idioma / Language:</strong>
-        <a href="#portugues">Português</a> ·
-        <a href="#english">English</a>
-      </p>
-    </td>
-    <td align="right" valign="middle">
-      <img src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="200" />
-    </td>
-  </tr>
-  
-  <!-- Biografia curta PT/EN -->
-  <tr>
-    <td colspan="2">
-      <p><strong>PT:</strong> Estudante de Ciência da Computação (UFPE), curiosa por várias áreas da tecnologia. Busco meu primeiro estágio e adoro transformar ideias em projetos que ajudem pessoas.</p>
-      <p><strong>EN:</strong> Computer Science student (UFPE) exploring different areas in tech. I’m looking for my first internship and love turning ideas into projects that help people.</p>
-    </td>
-  </tr>
-</table>
+<!-- Header: nome/idiomas à esquerda e GIF à direita (sem espaços extras) -->
+<img align="right" src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="280" />
+
+<h1>Julyana Alves</h1>
+<p>
+  <strong>Idioma / Language:</strong>
+  <a href="#portugues">Português</a> ·
+  <a href="#english">English</a>
+</p>
+
+<!-- Biografia curta PT/EN abaixo do cabeçalho -->
+<p><strong>PT:</strong> Estudante de Ciência da Computação (UFPE), curiosa por várias áreas da tecnologia. Busco meu primeiro estágio e adoro transformar ideias em projetos que ajudem pessoas.</p>
+<p><strong>EN:</strong> Computer Science student (UFPE) exploring different areas in tech. I’m looking for my first internship and love turning ideas into projects that help people.</p>
+
+<br clear="right" />
 
 ---
 
