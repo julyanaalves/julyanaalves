@@ -3,6 +3,8 @@
   <tr>
     <td align="left" valign="middle">
       <h1>Julyana Alves</h1>
+      <p><strong>PT:</strong> Estudante de Ciência da Computação (UFPE), curiosa por várias áreas da tecnologia. Busco meu primeiro estágio e adoro transformar ideias em projetos que ajudem pessoas.</p>
+      <p><strong>EN:</strong> Computer Science student (UFPE) exploring different areas in tech. I’m looking for my first internship and love turning ideas into projects that help people.</p>
       <p>
         <strong>Idioma / Language:</strong>
         <a href="#portugues">Português</a> ·
@@ -16,8 +18,6 @@
 </table>
 
 <!-- Biografia curta PT/EN abaixo do cabeçalho -->
-<p><strong>PT:</strong> Estudante de Ciência da Computação (UFPE), curiosa por várias áreas da tecnologia. Busco meu primeiro estágio e adoro transformar ideias em projetos que ajudem pessoas.</p>
-<p><strong>EN:</strong> Computer Science student (UFPE) exploring different areas in tech. I’m looking for my first internship and love turning ideas into projects that help people.</p>
 
 ---
  
