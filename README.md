@@ -1,8 +1,8 @@
 <!-- Header com layout em duas colunas para evitar a linha sobre o GIF -->
-<table width="100%">
+<table width = "100%">
   <tr>
     <td align="left" valign="middle">
-      <strong style="font-size: 1.4em;">Julyana Alves</strong>
+      <h1>Julyana Alves</h1>
       <p>
         <strong>Idioma / Language:</strong>
         <a href="#portugues">Português</a> ·
