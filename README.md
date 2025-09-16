@@ -1,11 +1,11 @@
-<!-- Header: nome/idiomas à esquerda e GIF à direita (sem espaços extras) -->
-<img align="right" src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="300" style="border-radius:12px; border:2px solid #8b5cf6; box-shadow:0 8px 20px rgba(139,92,246,0.25); margin-left:16px;" />
+<!-- Header: nome/idiomas à esquerda e GIF à direita (sem estilos inline para compatibilidade com GitHub) -->
+<img align="right" src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="300" />
 
-<h1 style="color:#7c3aed; margin-bottom: 6px;">Julyana Alves</h1>
+## Julyana Alves
 <p>
-  <strong style="color:#7c3aed;">Idioma / Language:</strong>
-  <a href="#portugues" style="color:#6d28d9; text-decoration:none; border-bottom:1px dashed #c4b5fd;">Português</a> ·
-  <a href="#english" style="color:#6d28d9; text-decoration:none; border-bottom:1px dashed #c4b5fd;">English</a>
+  <strong>Idioma / Language:</strong>
+  <a href="#portugues">Português</a> ·
+  <a href="#english">English</a>
 </p>
 
 <!-- Biografia curta PT/EN abaixo do cabeçalho -->
@@ -14,7 +14,9 @@
 
 <br clear="right" />
 
-<div style="height:4px; background:linear-gradient(90deg,#a78bfa,#8b5cf6,#6d28d9,#5b21b6); border-radius:999px; margin: 12px 0 20px;"></div>
+---
+ 
+
 
 <a id="portugues"></a>
 <details open>
