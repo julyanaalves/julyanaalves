@@ -1,17 +1,8 @@
-<img align="right" src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="300" />
-
-## Julyana Alves
-<p>
-  <strong>Idioma / Language:</strong>
-  <a href="#portugues">Português</a> ·
-  <a href="#english">English</a>
-</p>
-
 <!-- Header com layout em duas colunas para evitar a linha sobre o GIF -->
 <table width="100%">
   <tr>
     <td align="left" valign="middle">
-      <h3>Julyana Alves</h3>
+      <strong style="font-size: 1.4em;">Julyana Alves</strong>
       <p>
         <strong>Idioma / Language:</strong>
         <a href="#portugues">Português</a> ·
