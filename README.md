@@ -1,15 +1,15 @@
 <div align="center">
 
-	<img src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="220" />
+  <img src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="220" />
 
-	<h1>Julyana Alves</h1>
+  <h1>Julyana Alves</h1>
   
-	<!-- Switch de idiomas (texto/links simples) -->
-	<p>
-		<strong>Idioma / Language:</strong>
-		<a href="#portugues">Português</a> ·
-		<a href="#english">English</a>
-	</p>
+  <!-- Switch de idiomas (texto/links simples) -->
+  <p>
+    <strong>Idioma / Language:</strong>
+    <a href="#portugues">Português</a> ·
+    <a href="#english">English</a>
+  </p>
 
 </div>
 
@@ -49,7 +49,7 @@
 
 ---
 
-## Estatísticas (opcional)
+## Estatísticas
 
 <details>
   <summary>Ver minhas estatísticas</summary>
@@ -60,7 +60,7 @@
   <img height="160" src="https://streak-stats.demolab.com/?user=julyanaalves&theme=radical" alt="GitHub Streak" />
 </details>
 
-## Badges (opcional)
+## Badges
 
 ![Status](https://img.shields.io/badge/status-Em%20evolu%C3%A7%C3%A3o-ff69b4)
 ![Aprendendo](https://img.shields.io/badge/aprendendo-React-blue)
@@ -108,7 +108,7 @@ Se gostou de algo, sinta-se à vontade para dar uma estrela, abrir uma issue com
 
 ---
 
-## Stats (optional)
+## Stats
 
 <details>
   <summary>See my stats</summary>
@@ -120,7 +120,7 @@ Se gostou de algo, sinta-se à vontade para dar uma estrela, abrir uma issue com
   <!-- <img height="160" src="https://streak-stats.demolab.com/?user=julyanaalves&theme=radical" alt="GitHub Streak" /> -->
 </details>
 
-## Badges (optional)
+## Badges
 
 ![Status](https://img.shields.io/badge/status-Work%20in%20progress-ff69b4)
 ![Learning](https://img.shields.io/badge/learning-React-blue)
