@@ -1,4 +1,3 @@
-<!-- Header: nome/idiomas à esquerda e GIF à direita (sem estilos inline para compatibilidade com GitHub) -->
 <img align="right" src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="300" />
 
 ## Julyana Alves
@@ -8,11 +7,26 @@
   <a href="#english">English</a>
 </p>
 
+<!-- Header com layout em duas colunas para evitar a linha sobre o GIF -->
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle">
+      <h3>Julyana Alves</h3>
+      <p>
+        <strong>Idioma / Language:</strong>
+        <a href="#portugues">Português</a> ·
+        <a href="#english">English</a>
+      </p>
+    </td>
+    <td align="right" valign="middle">
+      <img src="./cute%20typing%20kitty%20gif.gif" alt="Gatinho digitando" width="300" />
+    </td>
+  </tr>
+</table>
+
 <!-- Biografia curta PT/EN abaixo do cabeçalho -->
 <p><strong>PT:</strong> Estudante de Ciência da Computação (UFPE), curiosa por várias áreas da tecnologia. Busco meu primeiro estágio e adoro transformar ideias em projetos que ajudem pessoas.</p>
 <p><strong>EN:</strong> Computer Science student (UFPE) exploring different areas in tech. I’m looking for my first internship and love turning ideas into projects that help people.</p>
-
-<br clear="right" />
 
 ---
  
