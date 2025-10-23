@@ -24,7 +24,7 @@
 
 
 <a id="portugues"></a>
-<details open>
+<details>
   <summary><strong>🇧🇷 Versão em Português</strong></summary>
 
 <p>Bem-vindo(a) ao meu cantinho no GitHub! Aqui compartilho projetos, estudos e experimentos.</p>
@@ -64,7 +64,7 @@
 
 ## Estatísticas
 
-<details>
+<details open>
   <summary>Ver minhas estatísticas</summary>
   
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=julyanaalves&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
@@ -128,7 +128,7 @@ Se gostou de algo, sinta-se à vontade para dar uma estrela, abrir uma issue com
 
 ## Stats
 
-<details>
+<details open>
   <summary>See my stats</summary>
   
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=julyanaalves&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
